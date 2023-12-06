@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Carlos
 - 👀 I’m interested in cats, games and tv shows
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and some other stuff
 - 📫 You can reach me sending an email to carlos.tmelo@outlook.com
